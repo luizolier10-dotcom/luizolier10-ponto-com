@@ -27,5 +27,5 @@ Atualmente focado na estruturação de pipelines automatizados para modelos de p
 
 ## 📫 Conecte-se comigo
 
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- E-mail: seu-email@exemplo.com
+- [LinkedIn](https://www.linkedin.com/in/luiz-gonzaga-filho/)
+- E-mail: luizolier10@gmail.com
